@@ -6,4 +6,3 @@ Estou sempre buscando melhorar minhas habilidades com projetos reais, desafios d
 
 Se você também curte Python ou tem projetos interessantes, vamos trocar uma ideia! 🐍🚀
 
--->
